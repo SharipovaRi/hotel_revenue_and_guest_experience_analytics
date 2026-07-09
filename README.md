@@ -180,3 +180,4 @@ To demonstrate the project workflow and analytical outputs, screenshots of dashb
 
 The hotel reviews raw dataset is included as a compressed ZIP file due to its large size.
 
+If you would like to review the complete Excel workbook, including the interactive dashboards, Power Query transformations, pivot tables, and supporting calculations, please feel free to contact me. I would be happy to share the file or provide a walkthrough of the project upon request.
