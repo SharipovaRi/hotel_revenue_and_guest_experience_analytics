@@ -58,13 +58,13 @@ This project demonstrates how operational booking data and guest feedback data c
 
 Interactive Power BI dashboard analyzing 119,000+ hotel bookings. The dashboard tracks booking volume, ADR, average length of stay, average daily rate by hotel type, booking volume by month, market segment performance, cancellation trends, and country-level demand patterns to support revenue management decisions.
 
-![Hotel Revenue and Demand Analytics](power_bi_screenshots/hotel_revenue_and_demand_analytics_screenshot.png)
+![Hotel Revenue and Demand Analytics](power_bi_screenshots/hotel_revenue_and_demand_analytics_dashboard_screenshot.png)
 
 ### Guest Experience and Review Analytics
 
 Power BI dashboard built from over 515,000 guest reviews. The dashboard evaluates guest satisfaction, sentiment distribution, reviewer demographics, hotel ratings, and review activity trends to identify strengths and opportunities for service improvement.
 
-![Guest Experience and Review Analytics](power_bi_screenshots/guest_experience_and_review_analytics_screenshot.png)
+![Guest Experience and Review Analytics](power_bi_screenshots/guest_experience_and_review_analytics_dashboard_screenshot.png)
 
 ### Excel Pivot Table Analysis
 Pivot table analysis used to explore booking behavior, customer segments, booking channels, cancellations, and guest review trends.
