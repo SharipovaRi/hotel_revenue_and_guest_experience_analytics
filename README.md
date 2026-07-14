@@ -53,6 +53,36 @@ This project demonstrates how operational booking data and guest feedback data c
 * Guests from the **United Kingdom** submitted the largest number of reviews, significantly exceeding all other nationalities.
 * The highest-rated hotels achieved average guest scores above **9.6 / 10**, while the lowest-rated hotels scored between **5.1 and 6.5 / 10**, highlighting substantial differences in guest experience across properties.
 
+## Business Recommendations
+
+### Revenue & Demand Management
+
+* Reduce cancellations among **Groups** and **Online Travel Agency (OTA)** bookings by implementing stricter cancellation policies, deposit requirements, or targeted pre-arrival communications.
+* Continue investing in **Online TA channels**, as they generate the highest booking volume, while monitoring acquisition costs to maintain profitability.
+* Leverage seasonal booking patterns identified in the dashboard to support demand forecasting and optimize pricing strategies throughout the year.
+
+### Customer Retention
+
+* Develop loyalty and retention initiatives to increase the **Repeat Guest Rate**, which currently represents only **3.19%** of bookings.
+* Introduce personalized offers, membership benefits, and targeted marketing campaigns to encourage repeat visits and strengthen customer relationships.
+
+### Guest Experience Improvement
+
+* Analyze operational practices and guest feedback from the **highest-rated hotels** to identify best practices that can be replicated across lower-performing properties.
+* Investigate recurring themes within lower-rated hotels and negative reviews to prioritize service improvements and enhance guest satisfaction.
+* Use guest sentiment trends and review analytics to proactively address service issues and improve the overall customer experience.
+
+### Market & Customer Insights
+
+* Leverage insights from key source markets such as **Portugal** and the **United Kingdom** to create more targeted marketing and customer engagement strategies.
+* Use reviewer demographics and guest feedback trends to better understand customer preferences and tailor service offerings to customer needs.
+
+### Data-Driven Decision Making
+
+* Combine booking performance metrics with guest satisfaction indicators to create a more comprehensive view of hotel performance.
+* Continuously monitor KPIs such as ADR, cancellation rates, review scores, and repeat guest activity to support proactive decision-making and operational planning.
+
+
 ## Dashboard Screenshots
 ### Hotel Revenue and Demand Analytics
 
